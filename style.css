@@ -4,12 +4,9 @@ ul{
 .img-circle{
     border-radius: 50%
 }
-/*
+.last1{
+    height: auto; background-color: rgb(151, 8, 8);
 }
-.https://www.claypaky.it/media/news/images/Clay_Paky_Sharpy_in_search_of_superstars.jpg{
-    width: 1000px; height: 1000px; 
-}
-*/
 .footer1 {
     height: 80px; background-color: black;
 }
