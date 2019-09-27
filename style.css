@@ -1,8 +1,57 @@
-ul{
-    list-style-type: none;
+*{
+    outline: 1px solid red;
 }
+body {
+background-image: url(https://backgroundcheckall.com/wp-content/uploads/2017/12/dark-red-and-black-background-10552.png) 
+}
+
+/* .navbar{
+    text-align: center; 
+} */
+/* ul{
+    list-style-type: none; 
+} */
+/* li{
+    float: left;
+} */
+.first{
+    color: white;
+    text-align: center;
+}
+.intro{
+    color: white;
+    text-align: left;
+}
+.btnbtn-primary{
+    text-align: center
+}
+iframe:focus {
+    outline: none;
+  }
+  
+  iframe[seamless] {
+    display: block;
+  }
+
 .img-circle{
-    border-radius: 50%
+    border-radius: 50%;
+    margin-top: 5vh; 
+}
+.card{
+    width: 18rem; margin-top: 5vh;
+}
+.card-body{
+    text-align: center; margin-top: 5vh;
+}
+.btn.btn-primary{
+    text-align: center; 
+}
+.h1white{
+    color: white;
+    text-align: center;
+}
+.pwhite{
+    color: white;
 }
 .last1{
     height: auto; background-color: rgb(151, 8, 8);
